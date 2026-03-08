@@ -10,6 +10,10 @@ header, section, footer {
   row-gap: 8px;
 }
 
+a {
+  color: inherit;
+}
+
 h1, h2, h3 {
   font-weight: 400;
 }
