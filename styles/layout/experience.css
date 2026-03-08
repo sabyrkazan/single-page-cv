@@ -1,0 +1,11 @@
+.experience__list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+}
+
+.company__achievements-list {
+  margin-block: 8px;
+  list-style-type: disc;
+  padding-left: 16px;
+}
