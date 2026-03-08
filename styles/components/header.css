@@ -1,7 +1,4 @@
 .header {
-  display: flex;
-  flex-direction: column;
-  row-gap: 8px;
   padding-top: 20px;
   border-top: 3px solid currentColor;
 }
