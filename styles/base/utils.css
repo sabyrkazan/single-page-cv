@@ -23,3 +23,7 @@
 .title-green {
   color: var(--color-green);
 }
+
+.title-blue {
+  color: var(--color-blue);
+}
