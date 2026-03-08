@@ -1,3 +1,5 @@
 body {
   font-family: 'Chiron GoRound TC', sans-serif;
+  color: var(--color-dark);
+  background-color: var(--color-light);
 }
