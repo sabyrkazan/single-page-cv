@@ -1,0 +1,8 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+  padding-top: 20px;
+  margin-bottom: 8px;
+  border-top: 3px solid currentColor;
+}
