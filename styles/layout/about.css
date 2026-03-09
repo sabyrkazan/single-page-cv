@@ -1,0 +1,9 @@
+.about__contact {
+  display: flex;
+  flex-direction: column;
+  font-style: normal;
+}
+
+.about__contact p {
+  margin-bottom: 0;
+}
