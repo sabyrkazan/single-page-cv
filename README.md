@@ -3,10 +3,15 @@
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://sabyrkazan.github.io/single-page-cv/)
 
 A simple single-page CV built with semantic HTML.
 
-This project is part of the Frontend Developer roadmap from roadmap.sh and focuses on building a well-structured HTML document.
+This project is part of the Frontend Developer roadmap from roadmap.sh.
+
+## Preview
+
+![Project Preview](./preview.png)
 
 ## Features
 
@@ -22,9 +27,20 @@ This project is part of the Frontend Developer roadmap from roadmap.sh and focus
 * HTML5
 * CSS3
 
-## Live Demo
+## Project Structure
 
-https://sabyrkazan.github.io/single-page-cv/
+```
+single-page-cv
+│
+├── index.html
+├── README.md
+├── favicon/
+│   └── favicon.svg
+└── styles/
+    ├── base/
+    ├── layout/
+    └── main.css
+```
 
 ## Project Source
 
