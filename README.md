@@ -31,11 +31,14 @@ This project is part of the Frontend Developer roadmap from roadmap.sh.
 
 ```
 ├── index.html
+│
 ├── README.md
 ├── .gitignore
+│
 ├── preview.png
 ├── favicon/
 │   └── favicon.svg
+│
 └── styles/
     ├── base/
     ├── layout/
