@@ -48,4 +48,5 @@ https://roadmap.sh/projects/single-page-cv
 
 ## Author
 
-GitHub: https://github.com/sabyrkazan
+GitHub: https://github.com/sabyrkazan <br />
+Telegram: https://t.me/sabyrkazan
