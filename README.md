@@ -33,9 +33,14 @@ This project is part of the Frontend Developer roadmap from roadmap.sh.
 single-page-cv
 │
 ├── index.html
+│
 ├── README.md
+├── .gitignore
+│
+├── preview.png
 ├── favicon/
 │   └── favicon.svg
+│
 └── styles/
     ├── base/
     ├── layout/
